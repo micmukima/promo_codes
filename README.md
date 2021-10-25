@@ -77,7 +77,7 @@ Server Configuration
 
     rm *
 
-    git clone https://github.com/micmukima/safeboda-promo.git
+    git clone https://github.com/micmukima/promo_codes.git
 
     cd safeboda-promo/
 
