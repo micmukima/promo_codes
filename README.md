@@ -1,6 +1,4 @@
-# safeboda-promo
-CASE STUDY FOR Software Engineer (PHP Engineer)
-
+# promo-codes
 Setup Instructions based on a Ubuntu(Linux) server Installation
  - Server Version - Ubuntu Server Version 20.04 X64
 
